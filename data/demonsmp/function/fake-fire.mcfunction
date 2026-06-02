@@ -1,0 +1,1 @@
+execute at @e[tag=fakeFire] run particle minecraft:flame ~ ~ ~ 0.1 0.1 0.1 0.05 10
