@@ -1,0 +1,15 @@
+# ty gemini for showing me macros and arrays in mcfunction, did NOT know that was a thing
+
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[0]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[1]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[2]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[3]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[4]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[5]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[6]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[7]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[8]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[9]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[10]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[11]
+function demonsmp:primitives/fakefire with storage demonsmp:vfx fire_coords[12]
