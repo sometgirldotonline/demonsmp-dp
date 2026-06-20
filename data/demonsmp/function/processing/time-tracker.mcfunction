@@ -10,4 +10,7 @@ tag @e[tag=newFireVfx] remove newFireVfx
 
 # killing machine
 kill @e[scores={entityAge=0}]
-scoreboard players remove @e[tag=ageTracked] entityAge 1
+effect clear @e[scores={fireArrowAge=0}] minecraft:glowing
+scoreboard players remove @e[scores={entityAge=0..2147483647}] entityAge 1
+scoreboard players remove @e[scores={fireArrowAge=0..2147483647}] fireArrowAge 1
+scoreboard players reset @e[scores={fireArrowAge=0}] fireArrowAge
