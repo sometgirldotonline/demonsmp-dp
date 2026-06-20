@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "hit_by_flamin_arrow": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_projectile",
+                "expected": true
+              }
+            ]
+          },
+          "source": {
+            "type": "minecraft:arrow",
+            "direct_entity": {
+              "type": "minecraft:arrow",
+              "slots": {
+                "weapon.mainhand": {
+                  "count": {
+                    "min": 1
+                  },
+                  "predicates": {
+                    "minecraft:custom_name": "Flamin' Arrow "
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "demonsmp:processing/player-shot-by-flamin"
+  },
+  "sends_telemetry_event": false
+}
