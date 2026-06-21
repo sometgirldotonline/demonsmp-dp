@@ -1,4 +1,6 @@
-execute as @e[distance=..2,tag=!glow_ray_shooter] run function demonsmp:processing/glow-ray-targeted
+execute as @e[distance=..1,tag=!glow_ray_shooter,sort=nearest,limit=1] run function demonsmp:processing/glow-ray-targeted 
+#execute as @e[distance=..1,tag=!glow_ray_shooter,sort=nearest,limit=1] run say aaand now i glooow! -kid in the lorax
+execute as @e[distance=..1,tag=!glow_ray_shooter,sort=nearest,limit=1] run return 1
 
 scoreboard players remove @s glow_ray_steps 1
 

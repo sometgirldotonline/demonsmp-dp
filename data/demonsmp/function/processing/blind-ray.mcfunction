@@ -1,4 +1,6 @@
-execute as @e[distance=..2,tag=!blind_ray_shooter] run function demonsmp:processing/blind-ray-targeted
+execute as @e[distance=..1,tag=!blind_ray_shooter,sort=nearest,limit=1] run function demonsmp:processing/blind-ray-targeted
+#execute as @e[distance=..1,tag=!blind_ray_shooter,sort=nearest,limit=1] run say aaand now i... blind? -not the kid in the lorax, he glow, not blind
+execute as @e[distance=..1,tag=!blind_ray_shooter,sort=nearest,limit=1] run return 1
 
 scoreboard players remove @s blind_ray_steps 1
 
