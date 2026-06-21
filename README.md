@@ -1,4 +1,6 @@
 # Demon SMP Datapack 
+![Hackatime Hours Badge](https://hackatime.hackclub.com/api/v1/badge/U09JWS88XU0/sometgirldotonline/demonsmp-dp) *◀️ that's how many hours i've spent on this*
+
 **Version:** Minecraft Java 26.1.2
 Adds some skills to minecraft. Skill names are pretty verbose because they're intended to be triggered using a mod that binds commands to keyboard shortcuts.
 
