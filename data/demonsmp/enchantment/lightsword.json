@@ -1,0 +1,39 @@
+{
+  "description": "demonsmp:lightsword",
+  "supported_items": "#minecraft:swords",
+  "primary_items": "#minecraft:swords",
+  "weight": 10,
+  "max_level": 3,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 1
+  },
+  "max_cost": {
+    "base": 11,
+    "per_level_above_first": 1
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:post_piercing_attack": [
+      {
+        "enchanted": "attacker",
+        "affected": "attacker",
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "demonsmp:skills/lightbeam"
+        }
+      }
+    ],
+    "minecraft:attribute_effects": [
+      {
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": 1024.0,
+        "operation": "add_value",
+        "id": "demonsmp:lightsword_speed"
+      }
+    ]
+  }
+}

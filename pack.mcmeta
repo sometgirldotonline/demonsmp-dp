@@ -3,7 +3,7 @@
         "description": {
             "text": "Demon SMP Datapack"
         },
-        "min_format": [94.1, 0],
-        "max_format": [94.1, 0]
+        "min_format": [101, 0],
+        "max_format": [101, 0]
     }
 }

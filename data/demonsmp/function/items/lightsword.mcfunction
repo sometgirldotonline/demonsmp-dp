@@ -1,0 +1,1 @@
+give @s minecraft:wooden_sword[piercing_weapon={deals_knockback:false,dismounts:false},minecraft:item_model="minecraft:light_sword",minecraft:item_name="Lightsword",minecraft:enchantments={'demonsmp:lightsword':1},enchantment_glint_override=false,attribute_modifiers=[]]
