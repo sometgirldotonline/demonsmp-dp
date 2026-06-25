@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "show_notification": false,
+  "group": "flaminarrow",
+  "pattern": [
+    " 0 ",
+    " 1 ",
+    " 2 "
+  ],
+  "key": {
+    "0": [
+      "minecraft:coal"
+    ],
+    "1": [
+      "stick"
+    ],
+    "2": [
+      "feather"
+    ]
+  },
+  "result": {
+    "id": "minecraft:arrow",
+    "components": {
+      "minecraft:custom_name": "Flamin' Arrow ",
+      "minecraft:item_model":"minecraft:flaming_arrow"
+      
+    },
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "equipment",
+	  "show_notification": false,
+  "group": "flaminarrow",
+	"ingredients": [
+	"minecraft:arrow",
+	"minecraft:coal"],
+	"result": {
+    "id": "minecraft:arrow",
+    "components": {
+      "minecraft:custom_name": "Flamin' Arrow ",
+      "minecraft:item_model":"minecraft:flaming_arrow"
+    },
+    "count": 4
+  }
+}
