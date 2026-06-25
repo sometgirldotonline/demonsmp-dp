@@ -18,16 +18,11 @@ Probably will have some item assigned, not sure yet.
 > insert demo here
 ## Flaming Arrow
 `/function demonsmp:give_arrow.mcfunction`
-> [!NOTE]
-> This will eventually be moved, renamed and will likely have a crafting recepie like one of the below:
->
-> <img width="216" height="124" alt="image" src="https://github.com/user-attachments/assets/18ab719b-31d1-4768-ac97-d8512776b1be" />
->
-> *The normal arrow recepie, with a coal replacing the flint, read from top to bottom, centered in the middle: coal, stick, feather*
->
-> <img width="216" height="124" alt="image" src="https://github.com/user-attachments/assets/b807225a-873f-4617-8684-d66f16650ef6" />
->
-> *An arrow in the middle left cell, and a coal in the top center cell*
+**Crafting:**
+<img width="216" height="124" alt="image" src="https://github.com/user-attachments/assets/18ab719b-31d1-4768-ac97-d8512776b1be" />
+*The normal arrow recepie, with a coal replacing the flint, read from top to bottom, centered in the middle: coal, stick, feather*
+<img width="216" height="124" alt="image" src="https://github.com/user-attachments/assets/b807225a-873f-4617-8684-d66f16650ef6" />
+*An arrow in the middle left cell, and a coal in the top center cell*
 
 > [!IMPORTANT]
 > insert demo here
