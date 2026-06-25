@@ -26,14 +26,7 @@
           "function": "demonsmp:skills/lightbeam"
         }
       }
-    ],
-    "minecraft:attribute_effects": [
-      {
-        "attribute": "minecraft:generic.attack_speed",
-        "amount": 1024.0,
-        "operation": "add_value",
-        "id": "demonsmp:lightsword_speed"
-      }
     ]
+    
   }
 }
