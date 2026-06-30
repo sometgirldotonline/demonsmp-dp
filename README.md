@@ -13,8 +13,9 @@ Adds some skills to minecraft. Skill names are pretty verbose because they're in
 > A bug causes all arrows to become flaming arrows, no fucking clue why.
 
 Probably will have some item assigned, not sure yet.
-> [!IMPORTANT]
-> insert demo here
+| Demo 1 | Demo 2 |
+|-|-|
+| <video src="https://github.com/user-attachments/assets/b0a32902-3478-43a3-a2f9-729da5cec075"></video><mark><b>🎧 Sound on!</b></mark> | <video src="https://github.com/user-attachments/assets/9aebad67-f2d8-484a-94f4-ad7621ab969e"/> |
 ## Flaming Arrow
 `/function demonsmp:give_arrow.mcfunction`
 Use any normal bow or crossbow to shoot.
@@ -29,8 +30,8 @@ Use any normal bow or crossbow to shoot.
 
 *An arrow in the middle left cell, and a coal in the top center cell*
 
-> [!IMPORTANT]
-> insert demo here
+https://github.com/user-attachments/assets/8ebd2240-3203-4ede-9594-89e163d5d378
+
 ## Rays
 There are three types of rays currently:
 <ul>
@@ -55,8 +56,10 @@ There are three types of rays currently:
   </ul></li>
 </ul>
 Will have some item assigned to each, not sure which items to use as base for each yet, or the crafting.
-> [!IMPORTANT]
-> insert demo here
+
+| Blindness | Glowing | Wither |
+|-|-|-|
+| <video src="https://github.com/user-attachments/assets/38519d66-2fde-4395-a100-36ce9f11c525"/> | <video src="https://github.com/user-attachments/assets/513bdff3-6969-43c6-a3f7-37ed966cb995"/> | <video src="https://github.com/user-attachments/assets/22ca0252-e7f9-427b-a35a-054151e00399"/> |
 
 ## Beam of Light
 `/function demonsmp:skill/lightbeam`
