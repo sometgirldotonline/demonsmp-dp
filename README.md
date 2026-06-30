@@ -9,7 +9,6 @@ Adds some skills to minecraft. Skill names are pretty verbose because they're in
 ## Ring of fire
 `/function demonsmp:skills/skill_ring_of_fire`
 
-Use any normal bow or crossbow to shoot.
 > [!WARNING]
 > A bug causes all arrows to become flaming arrows, no fucking clue why.
 
@@ -18,6 +17,7 @@ Probably will have some item assigned, not sure yet.
 > insert demo here
 ## Flaming Arrow
 `/function demonsmp:give_arrow.mcfunction`
+Use any normal bow or crossbow to shoot.
 
 **Crafting:**
 
